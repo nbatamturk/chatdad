@@ -6,5 +6,8 @@
     "nbatamturk <burak.cesen@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/nbatamturk/chatdad"
+  "homepage": "https://github.com/nbatamturk/chatdad",
+  "dependencies": {
+    "angular": "^1.7.5"
+  }
 }
